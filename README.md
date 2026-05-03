@@ -65,3 +65,27 @@ Used structured prompts to:
 ## 🧠 Key Prompts Used
 
 ### 1. Insight Generation
+
+## 📌 Key Insights
+
+- Employees with less than 2 years tenure show the highest attrition risk  
+- Sales and Customer Support departments have elevated turnover  
+- Younger workforce segments (<30) show higher attrition trends  
+- Compensation range $60K–$100K has highest employee concentration  
+
+---
+
+## 💡 Recommendations
+
+- Implement targeted retention programs for early-tenure employees  
+- Conduct department-specific engagement initiatives  
+- Review compensation alignment for high-risk roles  
+- Improve internal mobility and career progression pathways  
+
+---
+
+## 🚀 Business Impact
+
+- Reduced manual HR analysis effort using AI-assisted insights  
+- Enabled data-driven decision-making for workforce planning  
+- Identified key attrition drivers to improve employee retention strategy  
