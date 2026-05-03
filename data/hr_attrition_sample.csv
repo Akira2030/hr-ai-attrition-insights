@@ -1,0 +1,3 @@
+employee_id,department,tenure,salary,attrition
+1,HR,2,50000,No
+2,IT,1,60000,Yes
