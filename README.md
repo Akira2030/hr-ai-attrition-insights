@@ -89,3 +89,4 @@ Used structured prompts to:
 - Reduced manual HR analysis effort using AI-assisted insights  
 - Enabled data-driven decision-making for workforce planning  
 - Identified key attrition drivers to improve employee retention strategy  
+
